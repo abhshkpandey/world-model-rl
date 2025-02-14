@@ -1,0 +1,10 @@
+torch
+numpy
+transformers
+tensorboard
+matplotlib
+tqdm
+scipy
+gym
+stable-baselines3
+rich
